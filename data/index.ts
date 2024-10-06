@@ -1,10 +1,10 @@
 export const navbarData = {
-  homeTitle: 'Riyad\'s Blog',
+  homeTitle: 'Alveena's Blog',
 }
 
 export const footerData = {
-  author: 'Al Asad Nur Riyad',
-  aboutAuthor: 'Hi! I am Riyad, a Tech enthusiast, problem solver and software engineer. Currently working at Appscode Inc.',
+  author: 'Alveena Nadeem',
+  aboutAuthor: 'Hi! I am Alveena, a Tech enthusiast, problem solver and software engineer. Currently studying at Duke University.',
   authorInterest: 'I have a fair amount of knowledge of Javascript, Typescript, VueJs, and Nuxt. If you have an interesting idea, either open source or paid let\'s connect.',
   aboutTheSite: 'This is a personal blog site built with Nuxt3, TailwindCSS, NuxtContent, Nuxt Icon. Currently it\'s deployed in Vercel.',
 }
